@@ -28,4 +28,4 @@
   Improves user experience by enabling an interface that is more tailored to the specific needs of the application and the operating system.
 
 * How to Implement?
-  Check out the details directly on the package page > [text](https://pub.dev/packages/window_manager)
+  Check out the details directly on the package page > [Link PubDev](https://pub.dev/packages/window_manager)

@@ -25,7 +25,7 @@ Contributions are welcome! To contribute:
 > [!NOTE]
 > Contact
 > For questions, visit our YouTube Channel.
-> [text](https://www.youtube.com/@FlutterBrasilOficial/videos)
+> [Youtube](https://www.youtube.com/@FlutterBrasilOficial/videos)
 
 Happy coding!
 
@@ -55,7 +55,7 @@ Contribuições são bem-vindas! Para contribuir:
 > [!NOTE]
 > Contato
 > Para dúvidas, visite nosso Canal no YouTube.
-> [text](https://www.youtube.com/@FlutterBrasilOficial/videos)
+> [Youtube](https://www.youtube.com/@FlutterBrasilOficial/videos)
 
 Bom desenvolvimento!
 

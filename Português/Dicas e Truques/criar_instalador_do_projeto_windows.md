@@ -5,7 +5,7 @@
 
 * Pré-requisitos
   Inno Setup Instalado: Faça o download e instale o Inno Setup a partir do site oficial.
-  [text](https://jrsoftware.org/isdl.php#stable)
+  [Link](https://jrsoftware.org/isdl.php#stable)
 
 * Passos para Criar o Instalador
   Prepare o Build da Aplicação Flutter
