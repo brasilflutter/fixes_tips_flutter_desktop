@@ -4,14 +4,15 @@
 
 
 # English
-Fixes and Tips for Flutter Desktop
-Welcome to Fixes and Tips for Flutter Desktop! This repository provides solutions and tips for Flutter Desktop development, addressing common issues and enhancing your workflow.
+Fixes and Tips for Flutter Desktop  
+Welcome to Fixes and Tips for Flutter Desktop!  
+This repository provides solutions and tips for Flutter Desktop development, addressing common issues and enhancing your workflow.
 
-What’s Included
-Bug Fixes: Solutions for common Flutter Desktop issues.
-Development Tips: Best practices for improving productivity and app performance.
-Additional Resources
-For more tips and tutorials, check out the Flutter Brasil Official YouTube Channel.
+- What’s Included
+- Bug Fixes: Solutions for common Flutter Desktop issues.
+- Development Tips: Best practices for improving productivity and app performance.
+- Additional Resources
+- For more tips and tutorials, check out the Flutter Brasil Official YouTube Channel.
 
 Contributing
 Contributions are welcome! To contribute:
@@ -34,14 +35,15 @@ License
 Licensed under the MIT License.
 
 # Português
-Correções e Dicas para Flutter Desktop
-Bem-vindo ao Correções e Dicas para Flutter Desktop! Este repositório oferece soluções e dicas para o desenvolvimento no Flutter Desktop, abordando problemas comuns e melhorando seu fluxo de trabalho.
+Correções e Dicas para Flutter Desktop  
+Bem-vindo ao Correções e Dicas para Flutter Desktop!  
+Este repositório oferece soluções e dicas para o desenvolvimento no Flutter Desktop, abordando problemas comuns e melhorando seu fluxo de trabalho.
 
-O Que Você Vai Encontrar
-Correções de Bugs: Soluções para problemas comuns no Flutter Desktop.
-Dicas de Desenvolvimento: Melhores práticas para aumentar a produtividade e o desempenho do aplicativo.
-Recursos Adicionais
-Para mais dicas e tutoriais, confira o Canal Oficial do Flutter Brasil no YouTube.
+- O Que Você Vai Encontrar
+- Correções de Bugs: Soluções para problemas comuns no Flutter Desktop.
+- Dicas de Desenvolvimento: Melhores práticas para aumentar a produtividade e o desempenho do aplicativo.
+- Recursos Adicionais
+- Para mais dicas e tutoriais, confira o Canal Oficial do Flutter Brasil no YouTube.
 
 Contribuindo
 Contribuições são bem-vindas! Para contribuir:
